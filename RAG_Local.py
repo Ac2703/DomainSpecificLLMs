@@ -7,6 +7,8 @@ import numpy as np
 # implements RAG system 
 # TinyLLama-1.1B-Chat for answer generation
 # all-MiniLM-L6-v2 for doc retrieval
+# 'Local' --> all models running locally
+
 
 
 #  STORING + RETRIEVING RELEVANT DOCS BASED ON USER QUERY
